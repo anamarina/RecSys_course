@@ -1,4 +1,4 @@
-# RecSys_course
+# RecSys course
 The course on recommender systems conducted in National Research University - Higher School of Economics (Moscow, Russia). Academic year 2021-2022. 
 
 Course on recommender systems.
@@ -14,3 +14,19 @@ Week1
 - Review of the main future directions.
 - Problems of the current articles.
 - Recommended sources on RecSys.
+
+
+Week2
+-----
+- Basic baselines
+- Item-based and user-based similarity, similarity metrics. 
+- Matrix Factorization (SVD et al.)
+- Collaborative Filtering (ALS) 
+
+Week3
+-----
+- Content-based & Hybrid recommenders taxonomy
+- LightFM model and library
+- Example of cascade recommender model (using gradient boosting on the second level)
+- Important preprocessing steps
+- Cross-validation types for recommender systems
