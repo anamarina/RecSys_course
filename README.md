@@ -30,3 +30,18 @@ Week3
 - Example of cascade recommender model (using gradient boosting on the second level)
 - Important preprocessing steps
 - Cross-validation types for recommender systems
+
+Week 4
+------
+- Data mining
+- Associative rules
+
+Week 5
+--------
+- Context based models evolution
+- Sequential based models
+- Next basket prediction (case study)
+
+Week 6
+-----
+- Explainability & interpretability of recommender systems
