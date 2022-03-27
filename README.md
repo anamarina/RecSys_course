@@ -45,3 +45,9 @@ Week 5
 Week 6
 -----
 - Explainability & interpretability of recommender systems
+
+Week 7
+-----
+- A/B tests for Recommender systems
+- Multiarmed bandits
+- RL for RecSys
