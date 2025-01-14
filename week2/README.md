@@ -1,3 +1,0 @@
-- Basic approaches. Top Popular, Top Personal
-- User-based, item-based similarity approaches
-- Linear models (EASE, SLIM)
