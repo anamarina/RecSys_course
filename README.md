@@ -33,18 +33,18 @@ Exam - oral examination on all topics (max 10 points).
 6. Hybrid approaches ([Lecture 6](https://vkvideo.ru/video-123851409_456239389?list=ln-FxB8gVvpyoGTZ634K8), [Seminar 6](https://vkvideo.ru/video-123851409_456239395?list=ln-T5cJbn2epVcapZP2V6))
 7. Sequential models for next-item recommendations ([Lecture 7](https://vkvideo.ru/video-123851409_456239382?list=ln-Tl0YIDKoS0bpyUGTLM), [Seminar 7](https://vkvideo.ru/video-123851409_456239383?list=ln-xzl3O7Efn9znpixzlo))
 8. Context-based recommendations [Canceled]
-9. Models for the next-basket recommendations task
-10. Autoencoders and variational autoencoders for recommendations 
-11. Graph and knowledge-graph based models 
-12. Interpretability and explainability  
-13. Uplift recommendations
-14. Multi-task & cross-domain recommendations 
-15. RL in RecSys
-16. Domain recommendations (multiomodal data)
-17. A/B testing and multi-armed bandites. Model monitoring
-18. Large scale RecSys
-19. Vanilla API service for recommender system
-20. Additional applied aspects and trends in recommender systems
+9. Models for the next-basket recommendations task ([Lecture 9](https://vkvideo.ru/video-123851409_456239398?list=ln-8VO20Ny2EJjGUw59RO), [Seminar 9](https://vkvideo.ru/video-123851409_456239399?list=ln-BIgnjdHVlob0OOAtUK))
+10. Autoencoders and variational autoencoders for recommendations ([Lecture 10](https://vkvideo.ru/video-123851409_456239412?list=ln-Pg3ieX3m1NuezyZhAz), [Seminar 10](https://vkvideo.ru/video-123851409_456239413?list=ln-X6tIzqzPbmzDHPHmu1))
+11. Graph and knowledge-graph based models ([Lecture 11](https://vkvideo.ru/video-123851409_456239420?list=ln-ow6FXAMTTcFVzyPVY0), [Seminar 11](https://vkvideo.ru/video-123851409_456239421?list=ln-Bt6pyg3Z2HjOEUxJxV))
+12. Interpretability and explainability ([Lecture 12](https://vkvideo.ru/video-123851409_456239445?list=ln-MQIZaMgpNghJkeay8o), [Seminar 12](https://vkvideo.ru/video-123851409_456239446?list=ln-iNW4J4jcrWnyBzGVLz))
+13. Uplift recommendations ([Lecture 13](https://vkvideo.ru/video-123851409_456239458?list=ln-j2fSFWWNUkl42YFQWF), [Seminar 13](https://vkvideo.ru/video-123851409_456239459?list=ln-hg0ZPrg7XO09UZ13UV))
+14. Multi-task & cross-domain recommendations ([Lecture 14](https://vkvideo.ru/video-123851409_456239460?list=ln-4zeZAXZ1jDYPJVwdzJ), [Seminar 14](https://vkvideo.ru/video-123851409_456239461?list=ln-j6e0jRniZPDZ9ESsS3))
+15. RL in RecSys ([Lecture 15](https://vkvideo.ru/video-123851409_456239487?list=ln-SkLAeJh2vNEUDsYPwB), [Seminar 15](https://vkvideo.ru/video-123851409_456239488?list=ln-rZIlai0HRO6AkdCZes))
+16. Domain recommendations (multiomodal data) ([Lecture 16](https://vkvideo.ru/video-123851409_456239485?list=ln-pHClfZ90kimG2LZxE2), [Seminar 16](https://vkvideo.ru/video-123851409_456239486?list=ln-tWfj2aTbOZUKP9QbgX))
+17. A/B testing and multi-armed bandites. Model monitoring ([Lecture 17](https://vkvideo.ru/video-123851409_456239489?list=ln-NueP977ZJ4UoiEuHnm), [Seminar 17](https://vkvideo.ru/video-123851409_456239490?list=ln-NzlCSElB3KUlzjc5Jn))
+18. Large scale RecSys ([Lecture 18](https://vkvideo.ru/video-123851409_456239491?list=ln-zccT0JLnaW9XWibzF2), [Seminar 18](https://vkvideo.ru/video-123851409_456239492?list=ln-bbn14Vs0zpuwgA0gCD))
+19. Vanilla API service for recommender system ([Lecture 19](https://vkvideo.ru/video-123851409_456239501), [Seminar 19](https://vkvideo.ru/video-123851409_456239502))
+20. Additional applied aspects and trends in recommender systems ([Lecture 20](https://vkvideo.ru/video-123851409_456239503), [Seminar 20](https://vkvideo.ru/video-123851409_456239504))
 
 ## Contributors 
 
