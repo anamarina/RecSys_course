@@ -3,11 +3,10 @@ The course on recommender systems conducted in National Research University - Hi
 
 ## Useful Links
 
-- [Wiki page of this course]([http://wiki.cs.hse.ru/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B](http://wiki.cs.hse.ru/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B))
-- [Table with grades]([https://docs.google.com/spreadsheets/d/1ODp5Hw5QZmo-Mvw2nZ9nNTdT0zRgk8m4HAuN0-zz1KI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/13IqUHcFiQhee1CiFSZrfozbWc9r-mIDXfJKKTxKV5Nc/edit?usp=sharing))
-- The code materials for each seminars can be found in the corresponding folders `/seminar*`.
+- [Wiki page of the course]([http://wiki.cs.hse.ru/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B](http://wiki.cs.hse.ru/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B))
+- The code materials for each practical lesson can be found in the corresponding folders `/seminar*`.
 - To download any folder please use [this link.](https://minhaskamal.github.io/DownGit/#/home)
-- Recordings of lectures and seminars (coming soon). 
+- Recordings of lectures and seminars.
 - All questions can be asked in the Telegram chat (the invitation link is available only to NRU HSE students)
 
 ## The most important section
@@ -52,6 +51,7 @@ Exam - oral examination on all topics (max 10 points).
 * [Oleg Lashinin](https://github.com/fotol1)
 * [Denis Krasilnikov](https://github.com/deethereal)
 * [Mikhail Pechatov](https://github.com/pechatov)
+* [Alex Milogradskiy](https://github.com/nemexur)
 
 
 ## License
