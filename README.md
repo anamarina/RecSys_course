@@ -27,7 +27,7 @@ Exam - oral examination on all topics (max 10 points).
 1. Introduction to recommender systems ([Lecture 1](https://vkvideo.ru/video-123851409_456239384?t=4s&list=ln-OhPhr1F5jCqS9SMg4T), [Seminar 1](https://vkvideo.ru/video-123851409_456239390?list=ln-tgI8kBfwG1h9p6OHZn))
 2. Similarity (neighborhood) based and linear approaches ([Lecture 2](https://vkvideo.ru/video-123851409_456239385?list=ln-fi0AbfTmgwRkUuI0Ai), [Seminar 2](https://vkvideo.ru/video-123851409_456239391?list=ln-rYpN16j7stPziuqnla))
 3. Matrix factorization ([Lecture 3](https://vkvideo.ru/video-123851409_456239386?list=ln-7iR10uKPPXoQh70kZM), [Seminar 3](https://vkvideo.ru/video-123851409_456239392?list=ln-Z09MXrPO8vEeZz83ZC))
-4. Collaborative filtering ([Lecture 4](https://chat.llm-platform.tcsgroup.io/c/20aaac1c-8ce0-4b52-ba04-3d7f2f056e40), [Seminar 4](https://vkvideo.ru/video-123851409_456239393?list=ln-hA54gevO7q5P56dXHP))
+4. Collaborative filtering ([Lecture 4](https://vkvideo.ru/video-123851409_456239387?list=ln-6MZc51TgkPBzwYinIw), [Seminar 4](https://vkvideo.ru/video-123851409_456239393?list=ln-hA54gevO7q5P56dXHP))
 5. Content and context-based models ([Lecture 5](https://vkvideo.ru/video-123851409_456239388?list=ln-Fq7pDdqylbjaBkBxR0), [Seminar 5](https://vkvideo.ru/video-123851409_456239394?list=ln-oRAjCGkGS8VJBd6bZG))
 6. Hybrid approaches ([Lecture 6](https://vkvideo.ru/video-123851409_456239389?list=ln-FxB8gVvpyoGTZ634K8), [Seminar 6](https://vkvideo.ru/video-123851409_456239395?list=ln-T5cJbn2epVcapZP2V6))
 7. Sequential models for next-item recommendations ([Lecture 7](https://vkvideo.ru/video-123851409_456239382?list=ln-Tl0YIDKoS0bpyUGTLM), [Seminar 7](https://vkvideo.ru/video-123851409_456239383?list=ln-xzl3O7Efn9znpixzlo))
