@@ -1,0 +1,161 @@
+﻿item_id,item_name,category,image_path
+I001,Молоко 2.5%,Молочные продукты,item_images/I001.png
+I002,Кефир,Молочные продукты,item_images/I002.png
+I003,Йогурт натуральный,Молочные продукты,item_images/I003.png
+I004,Творог 5%,Молочные продукты,item_images/I004.png
+I005,Сметана 20%,Молочные продукты,item_images/I005.png
+I006,Сыр гауда,Молочные продукты,item_images/I006.png
+I007,Сливочное масло,Молочные продукты,item_images/I007.png
+I008,Сливки 10%,Молочные продукты,item_images/I008.png
+I009,Моцарелла,Молочные продукты,item_images/I009.png
+I010,Пармезан,Молочные продукты,item_images/I010.png
+I011,Сыр творожный,Молочные продукты,item_images/I011.png
+I012,Ряженка,Молочные продукты,item_images/I012.png
+I013,Йогурт греческий,Молочные продукты,item_images/I013.png
+I014,Молоко безлактозное,Молочные продукты,item_images/I014.png
+I015,Хлеб пшеничный,Хлеб,item_images/I015.png
+I016,Хлеб ржаной,Хлеб,item_images/I016.png
+I017,Батон нарезной,Хлеб,item_images/I017.png
+I018,Лаваш,Хлеб,item_images/I018.png
+I019,Булочки для бургеров,Хлеб,item_images/I019.png
+I020,Багет,Хлеб,item_images/I020.png
+I021,Круассаны,Хлеб,item_images/I021.png
+I022,Хлебцы ржаные,Хлеб,item_images/I022.png
+I023,Яйца C1 10 шт,Бакалея,item_images/I023.png
+I024,Яйца перепелиные,Бакалея,item_images/I024.png
+I025,Куриное филе,Мясо и птица,item_images/I025.png
+I026,Куриные бедра,Мясо и птица,item_images/I026.png
+I027,Фарш говяжий,Мясо и птица,item_images/I027.png
+I028,Фарш индейки,Мясо и птица,item_images/I028.png
+I029,Свинина для жарки,Мясо и птица,item_images/I029.png
+I030,Говядина стейк,Мясо и птица,item_images/I030.png
+I031,Сосиски,Мясо и птица,item_images/I031.png
+I032,Бекон,Мясо и птица,item_images/I032.png
+I033,Колбаса докторская,Мясо и птица,item_images/I033.png
+I034,Ветчина,Мясо и птица,item_images/I034.png
+I035,Котлеты куриные,Мясо и птица,item_images/I035.png
+I036,Лосось филе,Рыба,item_images/I036.png
+I037,Треска филе,Рыба,item_images/I037.png
+I038,Креветки очищенные,Рыба,item_images/I038.png
+I039,Тунец консервированный,Рыба,item_images/I039.png
+I040,Сельдь слабосоленая,Рыба,item_images/I040.png
+I041,Крабовые палочки,Рыба,item_images/I041.png
+I042,Картофель,Овощи,item_images/I042.png
+I043,Морковь,Овощи,item_images/I043.png
+I044,Лук репчатый,Овощи,item_images/I044.png
+I045,Чеснок,Овощи,item_images/I045.png
+I046,Помидоры,Овощи,item_images/I046.png
+I047,Огурцы,Овощи,item_images/I047.png
+I048,Перец болгарский,Овощи,item_images/I048.png
+I049,Капуста белокочанная,Овощи,item_images/I049.png
+I050,Свекла,Овощи,item_images/I050.png
+I051,Салат айсберг,Овощи,item_images/I051.png
+I052,Шпинат,Овощи,item_images/I052.png
+I053,Шампиньоны,Овощи,item_images/I053.png
+I054,Кабачки,Овощи,item_images/I054.png
+I055,Баклажаны,Овощи,item_images/I055.png
+I056,Брокколи,Овощи,item_images/I056.png
+I057,Авокадо,Овощи,item_images/I057.png
+I058,Редис,Овощи,item_images/I058.png
+I059,Зеленый лук,Овощи,item_images/I059.png
+I060,Укроп,Овощи,item_images/I060.png
+I061,Петрушка,Овощи,item_images/I061.png
+I062,Острый перец,Овощи,item_images/I062.png
+I063,Имбирь,Овощи,item_images/I063.png
+I064,Яблоки,Фрукты,item_images/I064.png
+I065,Бананы,Фрукты,item_images/I065.png
+I066,Апельсины,Фрукты,item_images/I066.png
+I067,Лимоны,Фрукты,item_images/I067.png
+I068,Груши,Фрукты,item_images/I068.png
+I069,Виноград,Фрукты,item_images/I069.png
+I070,Клубника,Фрукты,item_images/I070.png
+I071,Голубика,Фрукты,item_images/I071.png
+I072,Мандарины,Фрукты,item_images/I072.png
+I073,Киви,Фрукты,item_images/I073.png
+I074,Манго,Фрукты,item_images/I074.png
+I075,Арбуз,Фрукты,item_images/I075.png
+I076,Рис длиннозерный,Бакалея,item_images/I076.png
+I077,Рис для суши,Бакалея,item_images/I077.png
+I078,Гречка,Бакалея,item_images/I078.png
+I079,Булгур,Бакалея,item_images/I079.png
+I080,Киноа,Бакалея,item_images/I080.png
+I081,Макароны спагетти,Бакалея,item_images/I081.png
+I082,Макароны пенне,Бакалея,item_images/I082.png
+I083,Лапша удон,Бакалея,item_images/I083.png
+I084,Овсяные хлопья,Бакалея,item_images/I084.png
+I085,Мука пшеничная,Бакалея,item_images/I085.png
+I086,Сахар,Бакалея,item_images/I086.png
+I087,Соль,Бакалея,item_images/I087.png
+I088,Подсолнечное масло,Бакалея,item_images/I088.png
+I089,Оливковое масло,Бакалея,item_images/I089.png
+I090,Кокосовое молоко,Бакалея,item_images/I090.png
+I091,Нори,Бакалея,item_images/I091.png
+I092,Панировочные сухари,Бакалея,item_images/I092.png
+I093,Разрыхлитель теста,Бакалея,item_images/I093.png
+I094,Ванильный сахар,Бакалея,item_images/I094.png
+I095,Какао порошок,Бакалея,item_images/I095.png
+I096,Томатная паста,Соусы,item_images/I096.png
+I097,Фасоль консервированная,Консервы,item_images/I097.png
+I098,Кукуруза консервированная,Консервы,item_images/I098.png
+I099,Горошек консервированный,Консервы,item_images/I099.png
+I100,Оливки,Консервы,item_images/I100.png
+I101,Соус песто,Соусы,item_images/I101.png
+I102,Кетчуп,Соусы,item_images/I102.png
+I103,Майонез,Соусы,item_images/I103.png
+I104,Соевый соус,Соусы,item_images/I104.png
+I105,Соус терияки,Соусы,item_images/I105.png
+I106,Горчица,Соусы,item_images/I106.png
+I107,Сальса,Соусы,item_images/I107.png
+I108,Карри паста,Соусы,item_images/I108.png
+I109,Черный перец,Специи,item_images/I109.png
+I110,Паприка,Специи,item_images/I110.png
+I111,Итальянские травы,Специи,item_images/I111.png
+I112,Корица,Специи,item_images/I112.png
+I113,Чай черный,Напитки,item_images/I113.png
+I114,Чай зеленый,Напитки,item_images/I114.png
+I115,Кофе молотый,Напитки,item_images/I115.png
+I116,Кофе зерновой,Напитки,item_images/I116.png
+I117,Сок яблочный,Напитки,item_images/I117.png
+I118,Сок апельсиновый,Напитки,item_images/I118.png
+I119,Вода минеральная,Напитки,item_images/I119.png
+I120,Газированная вода,Напитки,item_images/I120.png
+I121,Квас,Напитки,item_images/I121.png
+I122,Морс ягодный,Напитки,item_images/I122.png
+I123,Мороженое ванильное,Заморозка,item_images/I123.png
+I124,Пельмени,Заморозка,item_images/I124.png
+I125,Вареники с картофелем,Заморозка,item_images/I125.png
+I126,Овощная смесь замороженная,Заморозка,item_images/I126.png
+I127,Ягоды замороженные,Заморозка,item_images/I127.png
+I128,Пицца замороженная,Заморозка,item_images/I128.png
+I129,Картофель фри замороженный,Заморозка,item_images/I129.png
+I130,Наггетсы куриные,Заморозка,item_images/I130.png
+I131,Шоколад молочный,Сладости,item_images/I131.png
+I132,Шоколад темный,Сладости,item_images/I132.png
+I133,Печенье овсяное,Сладости,item_images/I133.png
+I134,Вафли,Сладости,item_images/I134.png
+I135,Мед,Сладости,item_images/I135.png
+I136,Джем клубничный,Сладости,item_images/I136.png
+I137,Орехи грецкие,Снэки,item_images/I137.png
+I138,Миндаль,Снэки,item_images/I138.png
+I139,Чипсы картофельные,Снэки,item_images/I139.png
+I140,Сухарики,Снэки,item_images/I140.png
+I141,Мюсли,Завтраки,item_images/I141.png
+I142,Хлопья кукурузные,Завтраки,item_images/I142.png
+I143,Гранола,Завтраки,item_images/I143.png
+I144,Арахисовая паста,Завтраки,item_images/I144.png
+I145,Хумус,Готовая еда,item_images/I145.png
+I146,Салат цезарь готовый,Готовая еда,item_images/I146.png
+I147,Сэндвич с курицей,Готовая еда,item_images/I147.png
+I148,Суп куриный готовый,Готовая еда,item_images/I148.png
+I149,Детское пюре яблочное,Детские товары,item_images/I149.png
+I150,Детская каша,Детские товары,item_images/I150.png
+I151,Подгузники,Детские товары,item_images/I151.png
+I152,Влажные салфетки,Детские товары,item_images/I152.png
+I153,Корм для кошек,Зоотовары,item_images/I153.png
+I154,Корм для собак,Зоотовары,item_images/I154.png
+I155,Наполнитель для кошачьего туалета,Зоотовары,item_images/I155.png
+I156,Средство для посуды,Бытовая химия,item_images/I156.png
+I157,Порошок стиральный,Бытовая химия,item_images/I157.png
+I158,Бумажные полотенца,Дом,item_images/I158.png
+I159,Туалетная бумага,Дом,item_images/I159.png
+I160,Пакеты для мусора,Дом,item_images/I160.png

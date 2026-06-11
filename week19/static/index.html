@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Week 19 Grocery Recommender</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Week 19 Demo</p>
+          <h1>Прототип grocery-рекомендателя с EASE</h1>
+          <p class="hero-copy">
+            Пользователь листает ленту, добавляет товары в корзину, а сервис тут же
+            дорекомендовывает ещё 5 позиций снизу на основе текущего состава корзины.
+          </p>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-label">Лента</span>
+            <strong id="feedCounter">0</strong>
+            <span class="stat-note">товаров уже показано</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Корзина</span>
+            <strong id="cartCounter">0</strong>
+            <span class="stat-note">уникальных товаров</span>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="panel panel-feed">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">Infinite Feed</p>
+              <h2>Что показываем пользователю</h2>
+            </div>
+            <button id="loadMoreBtn" class="btn btn-primary" type="button">Показать ещё 5</button>
+          </div>
+          <p class="panel-copy">
+            Уже показанные товары больше не возвращаются в ленту. Любую карточку можно скрыть вручную.
+          </p>
+          <div id="feedGrid" class="feed-grid"></div>
+          <div id="feedEmpty" class="empty-state hidden">
+            Все товары закончились. Можно продолжать играться с корзиной и рекомендациями.
+          </div>
+        </section>
+
+        <aside class="sidebar">
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="section-kicker">Current Basket</p>
+                <h2>Корзина</h2>
+              </div>
+            </div>
+            <div id="cartList" class="stack-list"></div>
+            <div id="cartEmpty" class="empty-state">
+              Добавьте любой товар из ленты, и снизу сразу появятся рекомендации от EASE.
+            </div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="section-kicker">EASE Recommendations</p>
+                <h2>Что дорекомендуем</h2>
+              </div>
+            </div>
+            <div id="recList" class="stack-list"></div>
+            <div id="recEmpty" class="empty-state">
+              Рекомендации появятся после первого добавления в корзину.
+            </div>
+          </section>
+        </aside>
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+  </html>
