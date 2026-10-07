@@ -3,9 +3,8 @@ The course on recommender systems conducted in National Research University - Hi
 
 ## Useful Links
 
-- The code materials for each practical lesson can be found in the corresponding folders `/seminar*`.
+- [Video recordings of lectures and seminars](https://edu.tbank.ru/my-activities/courses/stream/48f36487-a47d-4561-b57a-fc86b92f5e58/program) are available on the educational platform. 
 - To download any folder please use [this link.](https://minhaskamal.github.io/DownGit/#/home)
-- Recordings of lectures and seminars.
 - All questions can be asked in the Telegram chat (the invitation link is available only to NRU HSE students)
 
 ## The most important section
@@ -23,8 +22,26 @@ Exam - oral examination (3 questions) (max 10 points).
 
 ## Course outline 
 
-1. Introduction to recommender systems 
-
+1. Introduction to Recommender Systems
+2. Fundamental Approaches
+3. Matrix Factorization and Collaborative Filtering
+4. Content-Based Recommendation Approaches
+5. Hybrid Approaches
+6. Scaling a Recommender System
+7. Sequential Recommendation Approaches
+8. Generative Recommendation Approaches
+9. Recommendations for Next-Basket Prediction
+10. Autoencoders for Recommendations
+11. Graph-Based Approaches for Recommendations
+12. Reinforcement Learning in RecSys
+13. A/B Testing of a Recommender System
+14. Uplift and Economic Recommendation Models
+15. Explainability of Recommendations
+16. Domain-Specific and Cross-Domain Recommendations
+17. Language Models in Recommendation
+18. Ranking
+19. The Recommendation Service
+20. Applied Considerations and Trends
 
 ## Contributors 
 
